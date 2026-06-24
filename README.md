@@ -152,12 +152,3 @@ Each trade decision is encoded as calldata in the transaction, making the agent'
 
 Capital is simulated ($1000 starting value) against real market prices — standard practice for testnet trading agents. All signals, LLM decisions, and on-chain transactions are fully live. The simulation tracks real P&L math against actual token price movements.
 
----
-
-## What's next
-
-- Mainnet deployment with real capital controls
-- Multi-wallet / multi-user support
-- Additional signal sources (funding rates, on-chain liquidity)
-- Strategy backtesting against historical data
-
