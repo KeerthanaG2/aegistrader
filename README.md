@@ -71,7 +71,7 @@ Express REST API ← Next.js Dashboard
 | LLM | Google Gemini 2.5 Flash Lite |
 | Market data | CoinGecko API + Alternative.me Fear & Greed |
 | Backend | Node.js + Express |
-| Database | SQLite (better-sqlite3) |
+| Database | SQLite |
 | Frontend | Next.js 14 + Recharts |
 
 ---
@@ -83,14 +83,6 @@ Express REST API ← Next.js Dashboard
 - API keys: Coinbase CDP (apiKeyId, apiKeySecret, walletSecret), Google Gemini
 
 ### Setup
-
-```bash
-git clone https://github.com/YOUR_USERNAME/aegistrader
-cd aegistrader/backend
-npm install
-```
-
-Create `backend/.env`:
 
 ```env
 CDP_API_KEY_ID=your_key
