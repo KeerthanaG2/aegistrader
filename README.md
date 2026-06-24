@@ -2,7 +2,7 @@
 
 An autonomous, self-custodial AI trading agent built on Base (Coinbase L2). AegisTrader monitors live crypto market signals, uses an LLM to make risk-aware trade decisions, enforces institutional-grade guardrails, and executes on-chain — all without a third party ever touching your keys.
 
-> Built as a portfolio project demonstrating the intersection of AI agents, DeFi, and production-grade risk management.
+> A project demonstrating the intersection of AI agents, DeFi, and production-grade risk management.
 
 ---
 
